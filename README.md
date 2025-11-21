@@ -32,4 +32,9 @@ O dashboard contém **3 páginas**, cada uma com foco em uma parte da análise:
 - Evolução temporal  
 - Gráficos limpos
 
-  
+  <img width="271" height="167" alt="image" src="https://github.com/user-attachments/assets/1636c750-98d6-4102-8e92-fd37b7302b51" />
+  <img width="266" height="155" alt="image" src="https://github.com/user-attachments/assets/d6c582a1-4025-41df-ad77-0c96c003fbed" />
+  <img width="272" height="155" alt="image" src="https://github.com/user-attachments/assets/c8294e99-65db-46de-a282-ba9e08fe8325" />
+
+
+
